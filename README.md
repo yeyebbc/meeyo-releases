@@ -1,4 +1,4 @@
-# Meeye Icon Pack Releases
+# Meeyo Icon Pack Releases
 
 ## Methods of Downloading
 
